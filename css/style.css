@@ -1,0 +1,44 @@
+body p{
+    font-family: 'Roboto', sans-serif;
+}
+h1, h2, h3, h4, h5{
+    font-family: 'Signika', sans-serif;
+}
+
+.bg-color{
+    background-color: rgb(252, 245, 235);
+}
+.no-bg{
+    background-color: white;
+}
+
+.f-size-lg{
+    font-size: 65px;
+}
+
+button img{
+    width: 45px;
+}
+
+
+.borderless-box{
+    border: none;
+}
+
+.clr-deep-blue{
+    color: rgb(54, 57, 88);
+}
+
+.b-color{
+    background: rgb(145, 171, 42);
+}
+.b-tex{
+    color: white;
+}
+.price-color{
+    color: rgb(253, 188, 67);
+}
+
+.b-round{
+    border-radius: 5%;
+}
